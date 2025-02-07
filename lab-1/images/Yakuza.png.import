@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cf8wdpj7g7vua"
-path="res://.godot/imported/Yakuza.jpeg-eadc578aab4d8c9cfadfb93d8b7693cb.ctex"
+uid="uid://cabpqajfk8lou"
+path="res://.godot/imported/Yakuza.png-1458c23a442c5da3ec843b4c4e515986.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://images/Yakuza.jpeg"
-dest_files=["res://.godot/imported/Yakuza.jpeg-eadc578aab4d8c9cfadfb93d8b7693cb.ctex"]
+source_file="res://images/Yakuza.png"
+dest_files=["res://.godot/imported/Yakuza.png-1458c23a442c5da3ec843b4c4e515986.ctex"]
 
 [params]
 
