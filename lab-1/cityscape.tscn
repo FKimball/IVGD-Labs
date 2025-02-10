@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://b3kxi65aaslkn"]
+
+[ext_resource type="Texture2D" uid="uid://bau00f1quhabi" path="res://images/cityscape.png" id="1_eggqu"]
+[ext_resource type="Texture2D" uid="uid://x07bh6uiay2q" path="res://images/sun.png" id="2_q71r3"]
+
+[node name="Cityscape" type="Sprite2D"]
+position = Vector2(580, 532)
+scale = Vector2(0.141191, 0.0831475)
+texture = ExtResource("1_eggqu")
+
+[node name="Sun" type="Sprite2D" parent="."]
+position = Vector2(3470.47, -5351.93)
+scale = Vector2(0.948195, 1.53696)
+texture = ExtResource("2_q71r3")
